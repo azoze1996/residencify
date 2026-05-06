@@ -1,0 +1,7 @@
+export { Header } from './Header'
+export { Hero } from './Hero'
+export { Features } from './Features'
+export { Categories } from './Categories'
+export { CTA } from './CTA'
+export { Footer } from './Footer'
+export { CookieConsent } from './CookieConsent'
